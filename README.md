@@ -3,10 +3,19 @@ This r-package facilitates analysis of simple population genetic analysis of SSR
 
 
 # Tools used
-Here is a set of tools that might be useful. Note that strataG is mainly used to run structure and summarize the results from this tool
+Here is a set of tools that might be useful. Note that strataG is mainly used to run structure and summarize the results from this.
 - adegenet
 - strataG
 - hierfstat
 - pegas
 - ape
 - poppr
+
+# installation structure
+Structure is a bit complicated to conpile on modern hardware as ot requires 32 bit support and most os today noeadays is 64-bit. it hence requieres a set of 32-bit related components to be added prior to installation. 
+
+## Ubuntu
+
+## Fedora
+
+## Mac
